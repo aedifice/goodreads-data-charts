@@ -24,3 +24,7 @@ A line chart showing which months you've done the most vs. least reading. Combin
 **Top-read publishers**
 
 Collects the top publishers or imprints you've read most in a bar chart.
+
+**Rating regression**
+
+Linear regression comparing overall ratings and personal ratings to determine how well one might predict the other.
